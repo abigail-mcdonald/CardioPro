@@ -1,1 +1,11 @@
-
+os
+numpy
+pandas
+neurokit2
+wfdb
+scipy.io
+h5py
+datasets #hugging face
+transformers
+torch
+sklearn
